@@ -1,62 +1,59 @@
-👋 Hi, I'm Haider Zaman  
-================================
+<div align="center">
+  <h1>👋 Hi, I'm Haider Zaman</h1>
+  <h3>Web Developer & AI Engineer</h3>
+  <p>Building scalable web applications and intelligent systems with modern tech.</p>
 
-**Web Developer & AI Engineer**
-
-I build scalable web applications and intelligent systems using modern frameworks, APIs, and machine learning.  
-Focused on clean architecture, performance, and real-world problem solving.
+  <a href="https://github.com/haiderzaman1782">
+    <img src="https://img.shields.io/github/followers/haiderzaman1782?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+  <br />
+  <br />
+</div>
 
 ---
 
 ### 🔹 About Me
+
 - 🌍 Based in **Pakistan**
-- 🖥️ Portfolio: [Book Recommendation System](http://book-frotend.vercel.app/)
-- ✉️ Contact: [haiderzaman1781@gmail.com](mailto:haiderzaman1781@gmail.com)
-- 🚀 Currently working on: [Booking Dashboard](http://booking-dashboard-rho.vercel.app/)
+- 🚀 Currently working on: [**Booking Dashboard**](http://booking-dashboard-rho.vercel.app/)
 - 🧠 Currently learning: **PyTorch & Deep Learning**
+- 🖥️ Portfolio: [**Haider Portfolio**](https://haider-portfolio-1.vercel.app/)
+- ✉️ Contact: [**haiderzaman1781@gmail.com**](mailto:haiderzaman1781@gmail.com)
 
 ---
 
-### 🔹 Tech Stack & Tools
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="36" height="36" />
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="36" height="36" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="36" height="36" />
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind CSS" width="36" height="36" />
-</a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" width="36" height="36" />
-</a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" width="36" height="36" />
-</a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="FastAPI" width="36" height="36" />
-</a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" width="36" height="36" />
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="36" height="36" />
-</a>
-<a href="https://docs.microsoft.com/en-us/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" width="36" height="36" />
-</a>
-</p>
+### 🛠️ Tech Stack
 
----
+<div align="center">
 
-### 🔹 Connect With Me
-<p align="left">
-<a href="https://www.github.com/haiderzaman1782" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" color="white"  width="32" height="32" alt="GitHub" />
-</a>
-</p>
+#### **Frontend**
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 
+#### **Backend**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+
+#### **Tools & Environment**
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+</div>
+
+
+
+### 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/haiderzaman1782" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:haiderzaman1781@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
