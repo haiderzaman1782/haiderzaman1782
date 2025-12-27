@@ -1,4 +1,4 @@
-Hi 👋 My name is Haider Zaman  
+👋 Hi, I'm Haider Zaman  
 ================================
 
 **Web Developer & AI Engineer**
