@@ -59,3 +59,7 @@ Focused on clean architecture, performance, and real-world problem solving.
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
 </a>
 </p>
+<a href="https://github.com/haiderzaman1782" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiderzaman1782&langs_count=3&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
+
