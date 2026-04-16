@@ -17,7 +17,7 @@
 - 🌍 Based in **Pakistan**
 - 🚀 Currently working on: [**Booking Dashboard**](http://booking-dashboard-rho.vercel.app/)
 - 🧠 Currently learning: **PyTorch & Deep Learning**
-- 🖥️ Portfolio: [**Haider Portfolio**](https://haider-portfolio-1.vercel.app/)
+- 🖥️ Portfolio: [**Haider Portfolio**](https://haider-zaman.vercel.app/)
 - ✉️ Contact: [**haiderzaman1781@gmail.com**](mailto:haiderzaman1781@gmail.com)
 
 ---
