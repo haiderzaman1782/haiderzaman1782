@@ -15,9 +15,9 @@
 ### 🔹 About Me
 
 - 🌍 Based in **Pakistan**
-- 🚀 Currently working on: [**Booking Dashboard**](http://booking-dashboard-rho.vercel.app/)
+- 🚀 Currently working on: [**Feezy Dashboardd**](https://feezy.proximux.online/)
 - 🧠 Currently learning: **PyTorch & Deep Learning**
-- 🖥️ Portfolio: [**Haider Portfolio**](https://haider-zaman.vercel.app/)
+- 🖥️ Portfolio: [**Haider Portfolio**](https://haider.proximux.online/)
 - ✉️ Contact: [**haiderzaman1781@gmail.com**](mailto:haiderzaman1781@gmail.com)
 
 ---
